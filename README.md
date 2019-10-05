@@ -1,3 +1,6 @@
+  # Deprecation notice
+  I've deprecated these bookmarklets in favor of a [Chrome extension](https://github.com/forkwhilefork/plexChromeExt) which doesn't have issues with CORS restrictions.
+
 # plexBookmarklets
 
 The latest version of this script is hosted at [https://static-files.s3.wasabisys.com/bookmarklet_dl.js](https://static-files.s3.wasabisys.com/bookmarklet_dl.js).
